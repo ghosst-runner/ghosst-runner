@@ -82,3 +82,7 @@
 <a href="https://t.me/ghosst_runner" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:warlex945@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<div align="center">
+  <img width="1900" height="684" alt="image" src="https://habrastorage.org/getpro/habr/upload_files/5ff/bcb/03a/5ffbcb03abb1ccfaa54a6c2055e0fe58.gif" />
+</div>
