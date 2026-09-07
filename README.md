@@ -1,6 +1,8 @@
 # Hi there, I'm Alex! 👋
 ### Middle Frontend Developer | React • Vue • Angular
 
+<img width="498" height="277" alt="image" src="https://github.com/user-attachments/assets/f08c2284-3fed-45d9-82cf-517d0c759204" />
+
 ### 🛠 Tech Stack & Ecosystem
 
 #### 💻 Core Languages
