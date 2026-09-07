@@ -1,7 +1,7 @@
 # Hi there, I'm Alex! 👋
 ### Middle Frontend Developer | React • Vue • Angular
 <div align="center">
-  [<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/7fcc85a2-b9cc-48c7-a4ae-7580ae9eeceb" />](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg3OTAyMjQsIm5iZiI6MTc4ODc4OTkyNCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTA3VDE0MDUyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM0NDQ2NTQxMmNkY2Y4YTIzZGQ0N2FiMGUxODlkYjliN2ZlYzk2NGMyZDA0ZmExNjhkZDRkMWYzNzFmNGRjMWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.drkShF02x4RKQLyDr1kW1gQvO7C5femXaXQCCwCuLXU)
+  <img width="1900" height="684" alt="image" src="https://github.com/user-attachments/assets/755b55f2-3192-4bd7-8111-c696061e66a9" />
 </div>
 
 
