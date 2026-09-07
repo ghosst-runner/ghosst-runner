@@ -1,7 +1,7 @@
 # Hi there, I'm Alex! 👋
 ### Middle Frontend Developer | React • Vue • Angular
 <div align="center">
-  <img width="1900" height="684" alt="image" src="https://github.com/user-attachments/assets/755b55f2-3192-4bd7-8111-c696061e66a9" />
+  <img width="1900" height="684" alt="image" src="[https://github.com/user-attachments/assets/755b55f2-3192-4bd7-8111-c696061e66a9](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)" />
 </div>
 
 
